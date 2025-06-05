@@ -1,187 +1,98 @@
+<h1 align="center">🔐 0x0806 | Cybersecurity Specialist & Ethical Hacker</h1>
 
-<!-- 0x0806 ULTIMATE RED TEAM README - CDN EDITION -->
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/0x0806/redteam-readme-assets@latest/banners/redteam-banner.gif" width="100%">
-</div>
+###
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&weight=800&size=32&duration=4000&pause=500&color=F72247&center=true&vCenter=true&width=800&lines=0x0806+%7C+Red+Team+Commander;APT+Simulation+Specialist;Offensive+Security+Engineer;Certified+Penetration+Tester" alt="Red Team Typing Animation" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Hack&size=22&duration=3000&pause=500&color=38F7D6&center=true&vCenter=true&width=600&lines=Offensive+Security+Researcher;Bug+Bounty+Hunter;Reverse+Engineering+Enthusiast;CTF+Player;Security+Tool+Developer" alt="Typing SVG" />
+</p>
 
-<div align="center">
-  
-[![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-Enterprise%20Red%20Team-red?style=for-the-badge&logo=mitre)](https://attack.mitre.org/)
-[![Cobalt Strike](https://img.shields.io/badge/Cobalt%20Strike-Certified%20Operator-blue?style=for-the-badge)](https://www.helpsystems.com/product-lines/cobalt-strike)
-[![OSEP](https://img.shields.io/badge/OSEP-Exploit%20Dev-orange?style=for-the-badge&logo=offensive-security)](https://www.offensive-security.com/)
-[![CRTO](https://img.shields.io/badge/CRTO-Red%20Team%20Ops-yellow?style=for-the-badge)](https://www.zeropointsecurity.co.uk/red-team-ops)
-
-</div>
+###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/0x0806/redteam-readme-assets@latest/animations/redteam-matrix.gif" width="80%">
+  <img src="https://komarev.com/ghpvc/?username=0x0806&label=Profile+Views&color=0e75b6&style=flat" alt="0x0806" /> 
+  <img src="https://img.shields.io/badge/OSCP-In_Progress-orange" alt="OSCP Progress" />
+  <img src="https://img.shields.io/badge/HTB-Top_1%25-brightgreen" alt="Hack The Box" />
 </div>
 
-## 🔴 Live Red Team Operations Center
+###
 
-```python
-#!/usr/bin/env python3
-# RED TEAM COMMAND CENTER
+<h2 align="center">🛠️ Technical Arsenal</h2>
 
-import random
-from datetime import datetime
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,go,rust,bash,powershell,c,cpp,js,ts" alt="Programming Languages" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=linux,docker,aws,azure,gcp,kubernetes,github,gitlab" alt="Platforms & DevOps" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=vim,neovim,vscode,atom,idea" alt="Editors & IDEs" />
+</div>
 
-class RedTeamOps:
-    def __init__(self):
-        self.operations = {
-            'initial_access': random.randint(1, 5),
-            'execution': random.randint(3, 8),
-            'persistence': random.randint(2, 6),
-            'privilege_escalation': random.randint(3, 7),
-            'defense_evasion': random.randint(4, 9),
-            'credential_access': random.randint(2, 5),
-            'discovery': random.randint(5, 10),
-            'lateral_movement': random.randint(3, 8),
-            'collection': random.randint(1, 4),
-            'exfiltration': random.randint(0, 3),
-            'command_and_control': random.randint(2, 6)
-        }
-        self.c2_infrastructure = [
-            "CS-MAIN [ONLINE]",
-            "SLIVER-BACKUP [STEALTH]",
-            "MYTHIC-ALT [ENCRYPTED]"
-        ]
-        self.ttp_usage = {
-            'T1078': "Valid Accounts",
-            'T1059': "Command-Line",
-            'T1566': "Phishing",
-            'T1021': "Remote Services",
-            'T1003': "OS Cred Dumping"
-        }
-    
-    def display(self):
-        print(f"\n🔴 LIVE RED TEAM DASHBOARD - {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
-        print("═"*80)
-        print("\n📡 ACTIVE OPERATIONS BY TACTIC:")
-        for tactic, count in self.operations.items():
-            print(f"{tactic.replace('_', ' ').title():<20} | {'█'*count} {count}")
-        
-        print("\n🖥️ C2 INFRASTRUCTURE:")
-        for server in self.c2_infrastructure:
-            print(f" • {server}")
-        
-        print("\n⚡ TOP TTPs IN USE:")
-        for ttp, desc in self.ttp_usage.items():
-            print(f" • {ttp}: {desc}")
-        
-        print("\n🚨 RECOMMENDED ACTIONS:")
-        print("- Rotate C2 infrastructure")
-        print("- Cleanup persistence mechanisms")
-        print("- Review OPSEC for current TTPs")
+###
 
-ops = RedTeamOps()
-ops.display()
-```
-
-## 🗡️ Red Team Tool Matrix (MITRE ATT&CK Mapped)
+<h2 align="center">🔬 Cybersecurity Domains</h2>
 
 <div align="center">
   
-| **Tactic** | **Tools** | **Visualization** |
-|------------|-----------|-------------------|
-| **Reconnaissance** | Maltego, SpiderFoot, OSRFramework, Recon-ng | <img src="https://cdn.jsdelivr.net/gh/0x0806/redteam-readme-assets@latest/animations/recon.gif" width="200"> |
-| **Initial Access** | Cobalt Strike, Sliver, Mythic, GoPhish | <img src="https://cdn.jsdelivr.net/gh/0x0806/redteam-readme-assets@latest/animations/initial-access.gif" width="200"> |
-| **Execution** | Covenant, Empire, PoshC2, Silver | <img src="https://cdn.jsdelivr.net/gh/0x0806/redteam-readme-assets@latest/animations/execution.gif" width="200"> |
-| **Persistence** | SharPersist, PowerSploit, SCShell, DCSync | <img src="https://cdn.jsdelivr.net/gh/0x0806/redteam-readme-assets@latest/animations/persistence.gif" width="200"> |
-| **Privilege Escalation** | BloodHound, Rubeus, JuicyPotato, PrintNightmare | <img src="https://cdn.jsdelivr.net/gh/0x0806/redteam-readme-assets@latest/animations/priv-esc.gif" width="200"> |
+| Specialization        | Tools & Technologies                                                                 |
+|-----------------------|-------------------------------------------------------------------------------------|
+| Web App Security      | Burp Suite, OWASP ZAP, SQLMap, XSS Hunter, WPScan, Nuclei                          |
+| Network Security      | Nmap, Wireshark, Tshark, Metasploit, Responder, Impacket                           |
+| Reverse Engineering   | Ghidra, IDA Pro, Radare2, Binary Ninja, x64dbg, Frida, JADX                        |
+| Cloud Security        | ScoutSuite, Pacu, Cloudsploit, AWS CLI, GCP IAM                                    |
+| Threat Intelligence   | MISP, Maltego, SpiderFoot, ThreatFox, AlienVault OTX                               |
+| Digital Forensics     | Autopsy, Volatility, FTK Imager, Wireshark, Bulk Extractor                         |
+| Cryptography          | OpenSSL, John the Ripper, Hashcat, Cryptool, SageMath                              |
 
 </div>
 
-## 🩸 Active Directory Attack Simulation
+###
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0x0806&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x0806&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+###
+
+<h2 align="center">🏆 Achievements</h2>
 
 <div align="center">
   
-```text
-🖥️  ENTERPRISE AD ENVIRONMENT (SIMULATED)
-[DOMAIN CONTROLLER] → [COMPROMISED via Golden Ticket]
-│
-├── [FINANCE] → Kerberoasting Successful (3 Service Accounts)
-│   ├── SQL-PROD-01 (Domain Admin Session)
-│   └── FILE-SHARE-02 (SMB Shares Exposed)
-│
-├── [IT] → Unconstrained Delegation (2 Systems)
-│   ├── IT-WEB-01 (Web Shell Persistence)
-│   └── IT-JUMP-01 (RDP Access)
-│
-└── [EXECUTIVE] → Password Spray Successful
-    ├── CEO-WORKSTATION (Screenshots Captured)
-    └── CFO-LAPTOP (Data Staging)
-
-🔥 CRITICAL PATHS:
-1. DA → Enterprise Admin → Schema Admin
-2. Krbtgt Hash Compromise (Golden Ticket)
-3. Certificate Template Abuse (ESC1)
-```
-
-<img src="https://cdn.jsdelivr.net/gh/0x0806/redteam-readme-assets@latest/animations/bloodhound.gif" width="80%">
+- Ranked in top 1% on Hack The Box and TryHackMe
+- Multiple CVE discoveries and responsible disclosures
+- Published security research on [Medium|Dev.to|Personal Blog]
+- Speaker at [Conference Names]
+- Contributor to open-source security tools like [Tool Names]
 
 </div>
 
-## 📊 Offensive Security Metrics
+###
+
+<h2 align="center">📫 Let's Collaborate</h2>
 
 <div align="center">
-  
-```text
-💀 OPERATIONS STATISTICS (LAST 30D)
-Initial Access      ████████████████████████░░░   92% 
-Lateral Movement    ██████████████████░░░░░░░░   72%
-Privilege Escalation████████████░░░░░░░░░░░░░░░   52%
-Data Exfiltration   ██████░░░░░░░░░░░░░░░░░░░░░   26%
-```
-
-<img src="https://cdn.jsdelivr.net/gh/0x0806/redteam-readme-assets@latest/charts/redteam-metrics.svg" width="100%">
-
+  <a href="https://linkedin.com/in/0x0806" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+  </a>
+  <a href="https://twitter.com/0x0806" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="30"/>
+  </a>
+  <a href="mailto:contact@0x0806.me">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
+  </a>
+  <a href="https://0x0806.me">
+    <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white" height="30"/>
+  </a>
 </div>
 
-## 🐍 Covert Contribution Activity
+###
 
-<div align="center">
-  
-<img src="https://cdn.jsdelivr.net/gh/0x0806/redteam-readme-assets@latest/animations/redteam-snake.svg" width="100%">
-
-</div>
-
-## 🚩 Recent Red Team Engagements
-
-<div align="center">
-
-| **Engagement** | **Tools Used** | **Findings** | **Visual** |
-|----------------|----------------|--------------|------------|
-| **Fortune 500 Financial** | Cobalt Strike, Impacket, Rubeus | Domain Compromise via Kerberoasting | <img src="https://cdn.jsdelivr.net/gh/0x0806/redteam-readme-assets@latest/engagements/finance.gif" width="150"> |
-| **Healthcare Provider** | Sliver, Certify, Egress-Assess | PACS System Zero-Day Exploitation | <img src="https://cdn.jsdelivr.net/gh/0x0806/redteam-readme-assets@latest/engagements/healthcare.gif" width="150"> |
-| **Government Agency** | Mythic, Covenant, DCSync | Complete AD Forest Compromise | <img src="https://cdn.jsdelivr.net/gh/0x0806/redteam-readme-assets@latest/engagements/gov.gif" width="150"> |
-
-</div>
-
-## 📡 Secure Contact Protocol
-
-<div align="center">
-  
-[![Signal](https://img.shields.io/badge/Signal-OP_SEC-2592E9?style=for-the-badge&logo=signal&logoColor=white)](https://signal.me/)
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-Encrypted-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:redteam@protonmail.com)
-[![Session](https://img.shields.io/badge/Session-Onion_Routed-1C1C1E?style=for-the-badge&logo=tor&logoColor=white)](https://getsession.org/)
-[![Threema](https://img.shields.io/badge/Threema-Secure-0FE100?style=for-the-badge&logo=threema&logoColor=white)](https://threema.ch/)
-[![PGP](https://img.shields.io/badge/PGP-0xDEADBEEF-lightgrey?style=for-the-badge&logo=gnu-privacy-guard)](https://keys.openpgp.org/)
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/0x0806/0x0806/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
-<div align="center">
-  
-<img src="https://cdn.jsdelivr.net/gh/0x0806/redteam-readme-assets@latest/animations/redteam-terminal.gif" width="80%">
-
-> "The price of freedom is eternal vigilance." - Always operate with proper authorization.  
-> *All activities conducted ethically for security improvement purposes.*
-
-</div>
-```
+> "Security is a process, not a product." - Bruce Schneier  
+> Always happy to discuss security research, bug bounties, or collaboration opportunities!
