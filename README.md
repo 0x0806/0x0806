@@ -97,21 +97,7 @@
 
 ###
 
-<h2 align="center">📂 Featured Projects</h2>
 
-<div align="center">
-
-🚀 **AnonymousChat P2P**  
-> A serverless, encrypted, peer-to-peer chat platform using WebRTC, AES-256, and QR-based invitation logic.  
-> 🔐 No logs. Zero storage. Full control.
-
-🔍 **PassiveRecon Pro**  
-> Advanced OSINT tool leveraging dorks, Shodan, GitHub, ASN mapping, and social footprinting for bug bounty recon.
-
-🧰 **Exploit Toolkit**  
-> Personal repo of PoCs, crafted payloads, fuzzing scripts, and bypasses for real-world CVEs.
-
-</div>
 
 ---
 
