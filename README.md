@@ -69,10 +69,8 @@
 
 <div align="center">
 
-- OSCP (in progress / completed)  
-- eJPT / eCPPT / CEH  
-- Hack The Box: Top 1%  
-- TryHackMe: Elite / 1337 Rank  
+- OSCP (in progress )    
+- Hack The Box: Top 1%    
 - BugCrowd / HackerOne: Multiple Valid Reports  
 - CTF Player @CTFtime
 
