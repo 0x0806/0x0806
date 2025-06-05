@@ -63,28 +63,13 @@
 - Multiple CVE discoveries and responsible disclosures
 - Published security research on [Medium|Dev.to|Personal Blog]
 - Speaker at [Conference Names]
-- Contributor to open-source security tools like [Tool Names]
+- Contributor to open-source security tools 
 
 </div>
 
 ###
 
-<h2 align="center">📫 Let's Collaborate</h2>
 
-<div align="center">
-  <a href="https://linkedin.com/in/0x0806" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
-  </a>
-  <a href="https://twitter.com/0x0806" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="30"/>
-  </a>
-  <a href="mailto:contact@0x0806.me">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
-  </a>
-  <a href="https://0x0806.me">
-    <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white" height="30"/>
-  </a>
-</div>
 
 ###
 
