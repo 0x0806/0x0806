@@ -10,8 +10,8 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=0x0806&label=Profile+Views&color=2E86C1&style=flat" alt="0x0806" /> 
-  <img src="https://img.shields.io/badge/OSCP-Certified-brightgreen" alt="CEH Certified" />
-  <img src="https://img.shields.io/badge/CRTE-Certified-blue" alt="CRTP Certified" />
+  <img src="https://img.shields.io/badge/CEH-Certified-brightgreen" alt="CEH Certified" />
+  <img src="https://img.shields.io/badge/CRTP-Certified-blue" alt="CRTP Certified" />
 </div>
 
 ###
@@ -55,11 +55,11 @@
 
 <div align="center">
   
-- Conducted 150+ successful penetration tests for Fortune 500 clients
-- Discovered and responsibly disclosed 12 critical CVEs (2019-2023)
+- Conducted 150+ successful penetration tests
+- Discovered and responsibly disclosed 12 critical CVEs 
 - Developed enterprise security tools adopted by MSSPs
 - Contributed to MITRE ATT&CK framework techniques
-- Speaker at Black Hat Arsenal (2022) and DEF CON Red Team Village (2023)
+- Speaker at Security Conference
 
 </div>
 
@@ -68,8 +68,8 @@
 <h2 align="center">📜 Certifications</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/OSCP-FFD43B?style=for-the-badge&logo=offensive-security&logoColor=black" height="30"/>
-  <img src="https://img.shields.io/badge/CRTE-2E86C1?style=for-the-badge" height="30"/>
+  <img src="https://img.shields.io/badge/CEH-FFD43B?style=for-the-badge&logo=offensive-security&logoColor=black" height="30"/>
+  <img src="https://img.shields.io/badge/CRTP-2E86C1?style=for-the-badge" height="30"/>
   <img src="https://img.shields.io/badge/AWS-Security%20Specialty-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/CISSP-4DBCE9?style=for-the-badge&logo=isc2&logoColor=white" height="30"/>
 </div>
