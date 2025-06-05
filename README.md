@@ -1,4 +1,4 @@
-<h1 align="center">🔐 0x0806 | Senior Cybersecurity Specialist</h1>
+<h1 align="center"> Senior Cybersecurity Specialist</h1>
 
 ###
 
@@ -10,8 +10,8 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=0x0806&label=Profile+Views&color=2E86C1&style=flat" alt="0x0806" /> 
-  <img src="https://img.shields.io/badge/OSCP-Certified-brightgreen" alt="OSCP Certified" />
-  <img src="https://img.shields.io/badge/CRTE-Certified-blue" alt="CRTE Certified" />
+  <img src="https://img.shields.io/badge/OSCP-Certified-brightgreen" alt="CEH Certified" />
+  <img src="https://img.shields.io/badge/CRTE-Certified-blue" alt="CRTP Certified" />
 </div>
 
 ###
