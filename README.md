@@ -49,19 +49,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x0806&layout=compact&langs_count=6&theme=algolia"/>
 </div>
 
-###
 
-<h2 align="center">🏆 Professional Achievements</h2>
-
-<div align="center">
-  
-- Conducted 150+ successful penetration tests
-- Discovered and responsibly disclosed 12 critical CVEs 
-- Developed enterprise security tools adopted by MSSPs
-- Contributed to MITRE ATT&CK framework techniques
-- Speaker at Security Conference
-
-</div>
 
 ###
 
