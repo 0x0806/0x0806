@@ -54,12 +54,12 @@ All repositories: [github.com/0x0806?tab=repositories](https://github.com/0x0806
 ## Recent Activity
 
 <!--START_SECTION:activity-->
+- ⬆️ Pushed 1 commit to [0x0806/Wordlist-Arsenal](https://github.com/0x0806/Wordlist-Arsenal) · <sub>2026-11-04</sub>
+- ⬆️ Pushed 1 commit to [0x0806/qsl_agent](https://github.com/0x0806/qsl_agent) · <sub>2026-11-03</sub>
+- ⬆️ Pushed 1 commit to [0x0806/qsl_agent](https://github.com/0x0806/qsl_agent) · <sub>2026-11-03</sub>
+- ⬆️ Pushed 1 commit to [0x0806/qsl_agent](https://github.com/0x0806/qsl_agent) · <sub>2026-11-03</sub>
 - ⬆️ Pushed 1 commit to [0x0806/Image-Forensics-Tool](https://github.com/0x0806/Image-Forensics-Tool) · <sub>2026-11-04</sub>
 - ⬆️ Pushed 1 commit to [0x0806/Linux-Arsenal](https://github.com/0x0806/Linux-Arsenal) · <sub>2026-11-04</sub>
-- ⬆️ Pushed 1 commit to [0x0806/Google-Dork-Generator](https://github.com/0x0806/Google-Dork-Generator) · <sub>2026-11-04</sub>
-- ⬆️ Pushed 1 commit to [0x0806/wifi-arsenal](https://github.com/0x0806/wifi-arsenal) · <sub>2026-11-04</sub>
-- ⬆️ Pushed 1 commit to [0x0806/qsl_agent](https://github.com/0x0806/qsl_agent) · <sub>2026-11-03</sub>
-- ⬆️ Pushed 1 commit to [0x0806/qsl_agent](https://github.com/0x0806/qsl_agent) · <sub>2026-11-03</sub>
 <!--END_SECTION:activity-->
 
 ## Certifications
@@ -75,7 +75,7 @@ All offensive work is performed with explicit authorization and within an agreed
 <div align="center">
 
 <!--START_SECTION:updated-->
-<sub>🕒 Auto-updated: 2026-11-05 05:19 UTC</sub>
+<sub>🕒 Auto-updated: 2026-11-05 13:39 UTC</sub>
 <!--END_SECTION:updated-->
 
 </div>
