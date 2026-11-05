@@ -19,6 +19,6 @@ jobs:
           args: >-
             --no-progress --max-retries 2 --timeout 20
             --accept 200,201,204,301,302,403,429,999
-            --exclude 'komarev\.com|vercel\.app|linkedin\.com|twitter\.com|raw\.githubusercontent\.com/.*/output/'
+            --exclude 'linkedin\.com|twitter\.com'
             README.md
           fail: true
