@@ -12,6 +12,7 @@ import os
 import re
 import sys
 import time
+import html
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -37,10 +38,28 @@ def api_get(path: str, retries: int = 3):
             req = urllib.request.Request(f"{API}{path}", headers=headers)
             with urllib.request.urlopen(req, timeout=20) as resp:
                 return json.load(resp)
+        except urllib.error.HTTPError as exc:
+            # Client errors (404, 403 rate limit, ...) won't fix themselves; only retry 429/5xx.
+            last = exc
+            if exc.code < 500 and exc.code != 429:
+                break
+            time.sleep(2 ** attempt)
         except (urllib.error.URLError, TimeoutError) as exc:
             last = exc
             time.sleep(2 ** attempt)
     raise RuntimeError(f"GitHub API request failed for {path}: {last}")
+
+
+def api_get_all(path: str, per_page: int = 100, max_pages: int = 10) -> list:
+    """Fetch every page of a list endpoint."""
+    sep = "&" if "?" in path else "?"
+    items: list = []
+    for page in range(1, max_pages + 1):
+        batch = api_get(f"{path}{sep}per_page={per_page}&page={page}")
+        items.extend(batch)
+        if len(batch) < per_page:
+            break
+    return items
 
 
 def esc(text: str) -> str:
@@ -49,12 +68,13 @@ def esc(text: str) -> str:
 
 def render_featured(repos: list[dict]) -> str:
     own = [r for r in repos if not r["fork"] and not r["archived"] and r["name"] != USER]
-    own.sort(key=lambda r: (r["stargazers_count"], r["pushed_at"]), reverse=True)
+    own.sort(key=lambda r: (r["stargazers_count"], r.get("pushed_at") or ""), reverse=True)
     rows = ["| Project | Description | Language | ⭐ |", "|:--|:--|:--|--:|"]
     for r in own[:FEATURED_COUNT]:
-        desc = esc(r.get("description")) or "—"
+        desc = (r.get("description") or "").replace("\n", " ").strip()
         if len(desc) > 110:
             desc = desc[:107].rstrip() + "..."
+        desc = esc(desc) or "—"
         lang = r.get("language") or "—"
         rows.append(f"| [**{r['name']}**]({r['html_url']}) | {desc} | {lang} | {r['stargazers_count']} |")
     return "\n".join(rows)
@@ -66,9 +86,9 @@ def render_stats(user: dict, repos: list[dict]) -> str:
     forks = sum(r["forks_count"] for r in own)
     langs = Counter(r["language"] for r in own if r.get("language"))
     def badge(label: str, value, color: str, style: str = "for-the-badge") -> str:
-        q = lambda s: urllib.parse.quote(str(s).replace("-", "--"), safe="")  # noqa: E731
+        q = lambda s: urllib.parse.quote(str(s).replace("-", "--").replace("_", "__"), safe="")  # noqa: E731
         return (f'<img src="https://img.shields.io/badge/{q(label)}-{q(value)}-{color}?style={style}" '
-                f'alt="{label}: {value}" />')
+                f'alt="{html.escape(f"{label}: {value}", quote=True)}" />')
 
     top = " ".join(badge(n, c, "2E86C1", "flat-square") for n, c in langs.most_common(6))
     return (
@@ -128,7 +148,7 @@ def replace_section(text: str, name: str, body: str) -> str:
 
 def main() -> int:
     user = api_get(f"/users/{USER}")
-    repos = api_get(f"/users/{USER}/repos?per_page=100&type=owner&sort=pushed")
+    repos = api_get_all(f"/users/{USER}/repos?type=owner&sort=pushed")
     events = api_get(f"/users/{USER}/events/public?per_page=50")
     text = README.read_text(encoding="utf-8")
     for name, body in {
