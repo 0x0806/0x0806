@@ -46,7 +46,7 @@ All repositories: [github.com/0x0806?tab=repositories](https://github.com/0x0806
 <img src="https://img.shields.io/badge/Followers-43-8E44AD?style=for-the-badge" alt="Followers: 43" />
 
 <sub>Languages by original repo count</sub><br/>
-<img src="https://img.shields.io/badge/JavaScript-16-2E86C1?style=flat-square" alt="JavaScript: 16" /> <img src="https://img.shields.io/badge/Python-7-2E86C1?style=flat-square" alt="Python: 7" /> <img src="https://img.shields.io/badge/CSS-3-2E86C1?style=flat-square" alt="CSS: 3" /> <img src="https://img.shields.io/badge/TypeScript-2-2E86C1?style=flat-square" alt="TypeScript: 2" /> <img src="https://img.shields.io/badge/C%2B%2B-2-2E86C1?style=flat-square" alt="C++: 2" /> <img src="https://img.shields.io/badge/HTML-2-2E86C1?style=flat-square" alt="HTML: 2" />
+<img src="https://img.shields.io/badge/JavaScript-17-2E86C1?style=flat-square" alt="JavaScript: 17" /> <img src="https://img.shields.io/badge/Python-7-2E86C1?style=flat-square" alt="Python: 7" /> <img src="https://img.shields.io/badge/CSS-3-2E86C1?style=flat-square" alt="CSS: 3" /> <img src="https://img.shields.io/badge/TypeScript-2-2E86C1?style=flat-square" alt="TypeScript: 2" /> <img src="https://img.shields.io/badge/C%2B%2B-2-2E86C1?style=flat-square" alt="C++: 2" /> <img src="https://img.shields.io/badge/Rust-1-2E86C1?style=flat-square" alt="Rust: 1" />
 
 </div>
 <!--END_SECTION:stats-->
@@ -54,12 +54,12 @@ All repositories: [github.com/0x0806?tab=repositories](https://github.com/0x0806
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-- ⬆️ Pushed 1 commit to [0x0806/Wordlist-Arsenal](https://github.com/0x0806/Wordlist-Arsenal) · <sub>2026-11-04</sub>
-- ⬆️ Pushed 1 commit to [0x0806/qsl_agent](https://github.com/0x0806/qsl_agent) · <sub>2026-11-03</sub>
-- ⬆️ Pushed 1 commit to [0x0806/qsl_agent](https://github.com/0x0806/qsl_agent) · <sub>2026-11-03</sub>
-- ⬆️ Pushed 1 commit to [0x0806/qsl_agent](https://github.com/0x0806/qsl_agent) · <sub>2026-11-03</sub>
-- ⬆️ Pushed 1 commit to [0x0806/Image-Forensics-Tool](https://github.com/0x0806/Image-Forensics-Tool) · <sub>2026-11-04</sub>
-- ⬆️ Pushed 1 commit to [0x0806/Linux-Arsenal](https://github.com/0x0806/Linux-Arsenal) · <sub>2026-11-04</sub>
+- ⬆️ Pushed 1 commit to [0x0806/osint-dashboard](https://github.com/0x0806/osint-dashboard) · <sub>2026-11-05</sub>
+- ⬆️ Pushed 1 commit to [0x0806/JWT-Security-Assessment](https://github.com/0x0806/JWT-Security-Assessment) · <sub>2026-11-05</sub>
+- ⬆️ Pushed 1 commit to [0x0806/NIGHTMARE-SURVIVAL](https://github.com/0x0806/NIGHTMARE-SURVIVAL) · <sub>2026-11-05</sub>
+- ⬆️ Pushed 1 commit to [0x0806/NIGHTMARE-SURVIVAL](https://github.com/0x0806/NIGHTMARE-SURVIVAL) · <sub>2026-11-05</sub>
+- ⬆️ Pushed 1 commit to [0x0806/0x0806](https://github.com/0x0806/0x0806) · <sub>2026-11-05</sub>
+- 🔀 Merged a pull request in [0x0806/osint-dashboard](https://github.com/0x0806/osint-dashboard) · <sub>2026-11-05</sub>
 <!--END_SECTION:activity-->
 
 ## Certifications
@@ -75,7 +75,7 @@ All offensive work is performed with explicit authorization and within an agreed
 <div align="center">
 
 <!--START_SECTION:updated-->
-<sub>🕒 Auto-updated: 2026-11-05 13:39 UTC</sub>
+<sub>🕒 Auto-updated: 2026-11-05 22:59 UTC</sub>
 <!--END_SECTION:updated-->
 
 </div>
