@@ -1,0 +1,24 @@
+name: Link Check
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --no-progress --max-retries 2 --timeout 20
+            --accept 200,201,204,301,302,403,429,999
+            --exclude 'komarev\.com|vercel\.app|linkedin\.com|twitter\.com|raw\.githubusercontent\.com/.*/output/'
+            README.md
+          fail: true

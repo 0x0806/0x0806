@@ -1,0 +1,11 @@
+name: Profile bug report
+description: Something on the profile README looks broken
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What looks broken?
+      description: Include a screenshot and whether you use light or dark mode.
+    validations:
+      required: true

@@ -1,0 +1,43 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["scripts/**"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-readme
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Regenerate dynamic sections
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_PROFILE_USER: ${{ github.repository_owner }}
+        run: python scripts/update_readme.py
+      - name: Commit changes
+        run: |
+          # ignore the timestamp-only change to avoid noisy commits within the same day
+          if git diff --quiet -I'Auto-updated' README.md; then
+            git checkout -- README.md
+            echo "No meaningful changes"; exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: refresh dynamic README sections"
+          git push
