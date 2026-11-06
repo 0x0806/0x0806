@@ -54,12 +54,12 @@ All repositories: [github.com/0x0806?tab=repositories](https://github.com/0x0806
 ## Recent Activity
 
 <!--START_SECTION:activity-->
+- ⬆️ Pushed 1 commit to [0x0806/NIGHTMARE-SURVIVAL](https://github.com/0x0806/NIGHTMARE-SURVIVAL) · <sub>2026-11-05</sub>
+- ⬆️ Pushed 1 commit to [0x0806/securechat](https://github.com/0x0806/securechat) · <sub>2026-11-05</sub>
+- ⬆️ Pushed 1 commit to [0x0806/vuln-bank](https://github.com/0x0806/vuln-bank) · <sub>2026-11-06</sub>
 - ⬆️ Pushed 1 commit to [0x0806/JWT-Security-Assessment](https://github.com/0x0806/JWT-Security-Assessment) · <sub>2026-11-05</sub>
 - ⬆️ Pushed 1 commit to [0x0806/osint-dashboard](https://github.com/0x0806/osint-dashboard) · <sub>2026-11-05</sub>
 - ⬆️ Pushed 1 commit to [0x0806/JWT-Security-Assessment](https://github.com/0x0806/JWT-Security-Assessment) · <sub>2026-11-05</sub>
-- ⬆️ Pushed 1 commit to [0x0806/NIGHTMARE-SURVIVAL](https://github.com/0x0806/NIGHTMARE-SURVIVAL) · <sub>2026-11-05</sub>
-- ⬆️ Pushed 1 commit to [0x0806/NIGHTMARE-SURVIVAL](https://github.com/0x0806/NIGHTMARE-SURVIVAL) · <sub>2026-11-05</sub>
-- ⬆️ Pushed 1 commit to [0x0806/0x0806](https://github.com/0x0806/0x0806) · <sub>2026-11-05</sub>
 <!--END_SECTION:activity-->
 
 ## Certifications
@@ -75,7 +75,7 @@ All offensive work is performed with explicit authorization and within an agreed
 <div align="center">
 
 <!--START_SECTION:updated-->
-<sub>🕒 Auto-updated: 2026-11-06 03:58 UTC</sub>
+<sub>🕒 Auto-updated: 2026-11-06 13:23 UTC</sub>
 <!--END_SECTION:updated-->
 
 </div>
