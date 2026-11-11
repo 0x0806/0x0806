@@ -46,7 +46,7 @@ All repositories: [github.com/0x0806?tab=repositories](https://github.com/0x0806
 <img src="https://img.shields.io/badge/Followers-43-8E44AD?style=for-the-badge" alt="Followers: 43" />
 
 <sub>Languages by original repo count</sub><br/>
-<img src="https://img.shields.io/badge/JavaScript-17-2E86C1?style=flat-square" alt="JavaScript: 17" /> <img src="https://img.shields.io/badge/Python-7-2E86C1?style=flat-square" alt="Python: 7" /> <img src="https://img.shields.io/badge/CSS-3-2E86C1?style=flat-square" alt="CSS: 3" /> <img src="https://img.shields.io/badge/TypeScript-2-2E86C1?style=flat-square" alt="TypeScript: 2" /> <img src="https://img.shields.io/badge/C%2B%2B-2-2E86C1?style=flat-square" alt="C++: 2" /> <img src="https://img.shields.io/badge/Rust-1-2E86C1?style=flat-square" alt="Rust: 1" />
+<img src="https://img.shields.io/badge/JavaScript-17-2E86C1?style=flat-square" alt="JavaScript: 17" /> <img src="https://img.shields.io/badge/Python-7-2E86C1?style=flat-square" alt="Python: 7" /> <img src="https://img.shields.io/badge/TypeScript-3-2E86C1?style=flat-square" alt="TypeScript: 3" /> <img src="https://img.shields.io/badge/CSS-2-2E86C1?style=flat-square" alt="CSS: 2" /> <img src="https://img.shields.io/badge/C%2B%2B-2-2E86C1?style=flat-square" alt="C++: 2" /> <img src="https://img.shields.io/badge/Rust-1-2E86C1?style=flat-square" alt="Rust: 1" />
 
 </div>
 <!--END_SECTION:stats-->
@@ -54,8 +54,8 @@ All repositories: [github.com/0x0806?tab=repositories](https://github.com/0x0806
 ## Recent Activity
 
 <!--START_SECTION:activity-->
+- ⭐ Starred [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) · <sub>2026-11-11</sub>
 - ⭐ Starred [affaan-m/ECC](https://github.com/affaan-m/ECC) · <sub>2026-11-10</sub>
-- ⬆️ Pushed 1 commit to [0x0806/qsl_agent](https://github.com/0x0806/qsl_agent) · <sub>2026-11-07</sub>
 - ⬆️ Pushed 1 commit to [0x0806/qsl_agent](https://github.com/0x0806/qsl_agent) · <sub>2026-11-07</sub>
 - ⬆️ Pushed 1 commit to [0x0806/qsl_agent](https://github.com/0x0806/qsl_agent) · <sub>2026-11-07</sub>
 - ⬆️ Pushed 1 commit to [0x0806/qsl_agent](https://github.com/0x0806/qsl_agent) · <sub>2026-11-07</sub>
@@ -75,7 +75,7 @@ All offensive work is performed with explicit authorization and within an agreed
 <div align="center">
 
 <!--START_SECTION:updated-->
-<sub>🕒 Auto-updated: 2026-11-10 13:54 UTC</sub>
+<sub>🕒 Auto-updated: 2026-11-11 13:07 UTC</sub>
 <!--END_SECTION:updated-->
 
 </div>
