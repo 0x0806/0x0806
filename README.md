@@ -28,8 +28,8 @@ Offensive security practitioner focused on adversary emulation, penetration test
 | [**wifi-arsenal**](https://github.com/0x0806/wifi-arsenal) | A comprehensive WiFi penetration testing framework for security professionals | Python | 19 |
 | [**wifi-deauther-esp8266**](https://github.com/0x0806/wifi-deauther-esp8266) | This comprehensive suite combines cutting-edge WiFi attack vectors, Bluetooth Low Energy (BLE) capabilities... | C++ | 8 |
 | [**CTF-Arsenal**](https://github.com/0x0806/CTF-Arsenal) | A comprehensive web-based toolkit for Capture The Flag (CTF) competitions featuring 50+ specialized tools a... | JavaScript | 4 |
-| [**ParallelSSH**](https://github.com/0x0806/ParallelSSH) | — | Python | 3 |
 | [**UnleashedLLM**](https://github.com/0x0806/UnleashedLLM) | A sophisticated command-line interface tool for downloading, managing, and interacting with powerful AI mod... | Python | 3 |
+| [**ParallelSSH**](https://github.com/0x0806/ParallelSSH) | — | Python | 3 |
 | [**scripts**](https://github.com/0x0806/scripts) | — | Python | 2 |
 <!--END_SECTION:featured-->
 
@@ -54,12 +54,12 @@ All repositories: [github.com/0x0806?tab=repositories](https://github.com/0x0806
 ## Recent Activity
 
 <!--START_SECTION:activity-->
+- ⬆️ Pushed 1 commit to [0x0806/qsl_agent](https://github.com/0x0806/qsl_agent) · <sub>2026-11-11</sub>
+- ⬆️ Pushed 1 commit to [0x0806/thriii](https://github.com/0x0806/thriii) · <sub>2026-11-11</sub>
+- ⬆️ Pushed 1 commit to [0x0806/energyhub-cafe](https://github.com/0x0806/energyhub-cafe) · <sub>2026-11-11</sub>
+- ⬆️ Pushed 1 commit to [0x0806/energyhub-cafe](https://github.com/0x0806/energyhub-cafe) · <sub>2026-11-11</sub>
 - ⬆️ Pushed 1 commit to [0x0806/lifestylegym](https://github.com/0x0806/lifestylegym) · <sub>2026-11-11</sub>
 - ⬆️ Pushed 1 commit to [0x0806/thriii](https://github.com/0x0806/thriii) · <sub>2026-11-11</sub>
-- ⬆️ Pushed 1 commit to [0x0806/lifestylegym](https://github.com/0x0806/lifestylegym) · <sub>2026-11-11</sub>
-- ⬆️ Pushed 1 commit to [0x0806/energyhub-cafe](https://github.com/0x0806/energyhub-cafe) · <sub>2026-11-11</sub>
-- ⬆️ Pushed 1 commit to [0x0806/energyhub-cafe](https://github.com/0x0806/energyhub-cafe) · <sub>2026-11-11</sub>
-- ⭐ Starred [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) · <sub>2026-11-11</sub>
 <!--END_SECTION:activity-->
 
 ## Certifications
@@ -75,7 +75,7 @@ All offensive work is performed with explicit authorization and within an agreed
 <div align="center">
 
 <!--START_SECTION:updated-->
-<sub>🕒 Auto-updated: 2026-11-13 03:55 UTC</sub>
+<sub>🕒 Auto-updated: 2026-11-13 13:34 UTC</sub>
 <!--END_SECTION:updated-->
 
 </div>
