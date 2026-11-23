@@ -40,13 +40,13 @@ All repositories: [github.com/0x0806?tab=repositories](https://github.com/0x0806
 <!--START_SECTION:stats-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/Public%20Repos-71-2E86C1?style=for-the-badge" alt="Public Repos: 71" />
+<img src="https://img.shields.io/badge/Public%20Repos-70-2E86C1?style=for-the-badge" alt="Public Repos: 70" />
 <img src="https://img.shields.io/badge/Stars%20Earned-48-F1C40F?style=for-the-badge" alt="Stars Earned: 48" />
 <img src="https://img.shields.io/badge/Forks-12-27AE60?style=for-the-badge" alt="Forks: 12" />
 <img src="https://img.shields.io/badge/Followers-42-8E44AD?style=for-the-badge" alt="Followers: 42" />
 
 <sub>Languages by original repo count</sub><br/>
-<img src="https://img.shields.io/badge/JavaScript-18-2E86C1?style=flat-square" alt="JavaScript: 18" /> <img src="https://img.shields.io/badge/Python-7-2E86C1?style=flat-square" alt="Python: 7" /> <img src="https://img.shields.io/badge/TypeScript-3-2E86C1?style=flat-square" alt="TypeScript: 3" /> <img src="https://img.shields.io/badge/C%2B%2B-2-2E86C1?style=flat-square" alt="C++: 2" /> <img src="https://img.shields.io/badge/Rust-1-2E86C1?style=flat-square" alt="Rust: 1" /> <img src="https://img.shields.io/badge/Shell-1-2E86C1?style=flat-square" alt="Shell: 1" />
+<img src="https://img.shields.io/badge/JavaScript-17-2E86C1?style=flat-square" alt="JavaScript: 17" /> <img src="https://img.shields.io/badge/Python-7-2E86C1?style=flat-square" alt="Python: 7" /> <img src="https://img.shields.io/badge/TypeScript-3-2E86C1?style=flat-square" alt="TypeScript: 3" /> <img src="https://img.shields.io/badge/C%2B%2B-2-2E86C1?style=flat-square" alt="C++: 2" /> <img src="https://img.shields.io/badge/Rust-1-2E86C1?style=flat-square" alt="Rust: 1" /> <img src="https://img.shields.io/badge/Shell-1-2E86C1?style=flat-square" alt="Shell: 1" />
 
 </div>
 <!--END_SECTION:stats-->
@@ -75,7 +75,7 @@ All offensive work is performed with explicit authorization and within an agreed
 <div align="center">
 
 <!--START_SECTION:updated-->
-<sub>🕒 Auto-updated: 2026-11-18 23:40 UTC</sub>
+<sub>🕒 Auto-updated: 2026-11-23 16:44 UTC</sub>
 <!--END_SECTION:updated-->
 
 </div>
