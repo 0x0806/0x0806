@@ -54,12 +54,12 @@ All repositories: [github.com/0x0806?tab=repositories](https://github.com/0x0806
 ## Recent Activity
 
 <!--START_SECTION:activity-->
+- ⬆️ Pushed 1 commit to [0x0806/Code-Arsenal](https://github.com/0x0806/Code-Arsenal) · <sub>2026-11-25</sub>
+- ⬆️ Pushed 1 commit to [0x0806/CTF-Arsenal](https://github.com/0x0806/CTF-Arsenal) · <sub>2026-11-25</sub>
+- ⬆️ Pushed 1 commit to [0x0806/CTF-Arsenal](https://github.com/0x0806/CTF-Arsenal) · <sub>2026-11-25</sub>
 - ⬆️ Pushed 1 commit to [0x0806/awesome-iot](https://github.com/0x0806/awesome-iot) · <sub>2026-11-16</sub>
 - ⬆️ Pushed 1 commit to [0x0806/cve](https://github.com/0x0806/cve) · <sub>2026-11-16</sub>
 - ⬆️ Pushed 1 commit to [0x0806/vuln-web-apps](https://github.com/0x0806/vuln-web-apps) · <sub>2026-11-16</sub>
-- ⬆️ Pushed 1 commit to [0x0806/ctf-archive](https://github.com/0x0806/ctf-archive) · <sub>2026-11-16</sub>
-- ⬆️ Pushed 1 commit to [0x0806/awesome-vulnerable-apps](https://github.com/0x0806/awesome-vulnerable-apps) · <sub>2026-11-16</sub>
-- ⬆️ Pushed 1 commit to [0x0806/shodan-dorks](https://github.com/0x0806/shodan-dorks) · <sub>2026-11-16</sub>
 <!--END_SECTION:activity-->
 
 ## Certifications
@@ -75,7 +75,7 @@ All offensive work is performed with explicit authorization and within an agreed
 <div align="center">
 
 <!--START_SECTION:updated-->
-<sub>🕒 Auto-updated: 2026-11-23 16:44 UTC</sub>
+<sub>🕒 Auto-updated: 2026-11-27 01:14 UTC</sub>
 <!--END_SECTION:updated-->
 
 </div>
