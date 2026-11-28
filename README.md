@@ -40,7 +40,7 @@ All repositories: [github.com/0x0806?tab=repositories](https://github.com/0x0806
 <!--START_SECTION:stats-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/Public%20Repos-70-2E86C1?style=for-the-badge" alt="Public Repos: 70" />
+<img src="https://img.shields.io/badge/Public%20Repos-71-2E86C1?style=for-the-badge" alt="Public Repos: 71" />
 <img src="https://img.shields.io/badge/Stars%20Earned-48-F1C40F?style=for-the-badge" alt="Stars Earned: 48" />
 <img src="https://img.shields.io/badge/Forks-12-27AE60?style=for-the-badge" alt="Forks: 12" />
 <img src="https://img.shields.io/badge/Followers-42-8E44AD?style=for-the-badge" alt="Followers: 42" />
@@ -54,12 +54,12 @@ All repositories: [github.com/0x0806?tab=repositories](https://github.com/0x0806
 ## Recent Activity
 
 <!--START_SECTION:activity-->
+- 🍴 Forked [zalexdev/strykerapp](https://github.com/zalexdev/strykerapp) · <sub>2026-11-28</sub>
+- ⬆️ Pushed 1 commit to [0x0806/IP-GeoLocator](https://github.com/0x0806/IP-GeoLocator) · <sub>2026-11-26</sub>
+- ⬆️ Pushed 1 commit to [0x0806/securechat](https://github.com/0x0806/securechat) · <sub>2026-11-27</sub>
+- ⬆️ Pushed 1 commit to [0x0806/securechat](https://github.com/0x0806/securechat) · <sub>2026-11-27</sub>
 - ⬆️ Pushed 1 commit to [0x0806/CTF-Arsenal](https://github.com/0x0806/CTF-Arsenal) · <sub>2026-11-25</sub>
 - ⬆️ Pushed 1 commit to [0x0806/Code-Arsenal](https://github.com/0x0806/Code-Arsenal) · <sub>2026-11-25</sub>
-- ⬆️ Pushed 1 commit to [0x0806/CTF-Arsenal](https://github.com/0x0806/CTF-Arsenal) · <sub>2026-11-25</sub>
-- ⬆️ Pushed 1 commit to [0x0806/CTF-Arsenal](https://github.com/0x0806/CTF-Arsenal) · <sub>2026-11-25</sub>
-- ⬆️ Pushed 1 commit to [0x0806/awesome-iot](https://github.com/0x0806/awesome-iot) · <sub>2026-11-16</sub>
-- ⬆️ Pushed 1 commit to [0x0806/cve](https://github.com/0x0806/cve) · <sub>2026-11-16</sub>
 <!--END_SECTION:activity-->
 
 ## Certifications
@@ -75,7 +75,7 @@ All offensive work is performed with explicit authorization and within an agreed
 <div align="center">
 
 <!--START_SECTION:updated-->
-<sub>🕒 Auto-updated: 2026-11-27 15:45 UTC</sub>
+<sub>🕒 Auto-updated: 2026-11-28 14:41 UTC</sub>
 <!--END_SECTION:updated-->
 
 </div>
